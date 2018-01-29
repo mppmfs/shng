@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://virasahel-co.ir/index.html</loc>
+    <lastmod>2018-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://virasahel-co.ir/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://virasahel-co.ir/images/title.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://virasahel-co.ir/images/cmail.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://virasahel-co.ir/images/cfax.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://virasahel-co.ir/images/cphone.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://virasahel-co.ir/images/cmap.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://virasahel-co.ir/images/title356x248.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://virasahel-co.ir/images/title328x229.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://virasahel-co.ir/images/title253x176.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://virasahel-co.ir/assets/ui-1.jpg</loc>
+    <lastmod>2018-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
